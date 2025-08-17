@@ -1,7 +1,7 @@
 ## Hello world 👋
 - **Languages**: JavaScript, Python, C#
 - [Twitter](https://twitter.com/sakamod32)
-- 
+
 <!--
 **sakamod-dot/sakamod-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - **Languages**: JavaScript, Python, C# 
