@@ -1,6 +1,6 @@
 ## Hello world 👋
 - **Languages**: JavaScript, Python, C#
-- [Twitter](https://twitter.com/sakamod32)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sakamod32)
 
 <!--
 **sakamod-dot/sakamod-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakamod-dot&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<img src="https://github-readme-stats.vercel.app/api?username=sakamod-dot&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<img src="https://github-profile-trophy.vercel.app/?username=sakamod-dot&theme=juicyfresh&no-bg=true" />
