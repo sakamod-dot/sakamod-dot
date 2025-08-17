@@ -1,5 +1,5 @@
 ## Hello world 👋
-
+初心者
 ## Connect with me
 | Platform | Link |
 |----------|------|
