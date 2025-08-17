@@ -7,4 +7,4 @@
 | LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile) |
 | Instagram | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_username) |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakamod-dot&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakamod-dote&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
