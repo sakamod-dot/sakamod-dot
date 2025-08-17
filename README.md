@@ -1,5 +1,5 @@
 ## Hello world 👋
-- **Languages**: JavaScript, Python, C#
+
 ## Connect with me
 | Platform | Link |
 |----------|------|
